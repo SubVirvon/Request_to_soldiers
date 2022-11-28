@@ -1,0 +1,8 @@
+C:\Users\Danii\source\repos\Request to soldiers\Request to soldiers\bin\Debug\Request to soldiers.exe.config
+C:\Users\Danii\source\repos\Request to soldiers\Request to soldiers\bin\Debug\Request to soldiers.exe
+C:\Users\Danii\source\repos\Request to soldiers\Request to soldiers\bin\Debug\Request to soldiers.pdb
+C:\Users\Danii\source\repos\Request to soldiers\Request to soldiers\obj\Debug\Request to soldiers.csproj.AssemblyReference.cache
+C:\Users\Danii\source\repos\Request to soldiers\Request to soldiers\obj\Debug\Request to soldiers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danii\source\repos\Request to soldiers\Request to soldiers\obj\Debug\Request to soldiers.csproj.CoreCompileInputs.cache
+C:\Users\Danii\source\repos\Request to soldiers\Request to soldiers\obj\Debug\Request to soldiers.exe
+C:\Users\Danii\source\repos\Request to soldiers\Request to soldiers\obj\Debug\Request to soldiers.pdb
